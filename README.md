@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Amr Sadat 👋
 
-<!--
-**amrabouhegab/amrabouhegab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Front-End Developer | Angular Expert
 
-Here are some ideas to get you started:
+🚀 Building high-performance web applications with the latest Angular (18+)  
+🎯 Passionate about Clean Architecture and functional programming  
+🔧 Currently exploring React to expand my frontend toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Frontend**: Angular 18+, TypeScript, RxJS, Signals
+- **Testing**: Jasmine
+- **Architecture**: Clean Code, SOLID principles, Modular Design
+- **Tools**: AI-enhanced development workflows
+
+### 📫 Let's Connect
+- LinkedIn: [linkedin.com/in/amrsadat](https://linkedin.com/in/amrsadat)
+- Currently @ SiliconExpert | Egypt
