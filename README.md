@@ -10,7 +10,7 @@
 - **Frontend**: Angular 18+, TypeScript, RxJS, Signals
 - **Testing**: Jasmine
 - **Architecture**: Clean Code, SOLID principles, Modular Design
-- **Tools**: AI-enhanced development workflows
+- **Tools**: AI-enhanced development workflows (Windsurf)
 
 ### 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/amrsadat](https://linkedin.com/in/amrsadat)
